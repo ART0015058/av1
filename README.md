@@ -57,4 +57,8 @@ serão expostos. Fazendo uso de cards, tag h, buto~es e outros recursos.
 
 #### Footer
 
+Ainda seguindo as diretrizes foi criado um rodapé para o site contendo 
+informações como mês, ano, nome completo do estudante avaliado, instituição e local.
+Além de contar com os ícones e links pedidos.
+
 
