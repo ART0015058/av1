@@ -41,3 +41,20 @@ Todas as páginas contam com estrutura de header, main e footer.
 
 O header contém a barra de navegação composta de marca do site, formulário 
 de procura, botão de procura e menu de navegação colapsado. 
+
+#### Main
+
+O main foi dividido em duas partes uma parte principal e uma lateral.
+
+##### Main - Aside
+
+Foi criado um menu lateral estático para uma navegação rápida.
+
+##### Main - Section
+
+Definido como a área principal de informações do site, onde os conteúdos 
+serão expostos. Fazendo uso de cards, tag h, buto~es e outros recursos.
+
+#### Footer
+
+
