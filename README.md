@@ -24,7 +24,7 @@ Seguindo a estruturação pedida pela avaliação da instituição.
 
 Para a avaliação foi criado um site de trailers de filmes.
 
-![Sitecineflix.png](/av1/img/Sitecineflix.png)
+![Sitecineflix.png](/img/Sitecineflix.png)
 
 O site conta com seis páginas:
 
