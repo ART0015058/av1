@@ -46,6 +46,10 @@ div > ul > li {
   background: #8b0000 !important;
 }
 
+aside > div {
+  padding: 10px !important;
+}
+
 /* Classes criadas*/
 
 .navdiferente {

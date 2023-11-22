@@ -35,7 +35,13 @@ O site conta com seis páginas:
 5. Novos e Populares - novosepopulares.html
 6. Sobre - sobre.html
 
-Todas as páginas contam com estrutura de header, main e footer.
+#### Body
+
+Todas as páginas contam com a seguinte estrutura:
+
+*header
+*main
+*footer
 
 #### Header
 
